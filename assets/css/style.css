@@ -909,7 +909,7 @@ section .container {
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgb(253, 248, 248);
   font-weight: 700;
   margin: 10px 0 8px 68px;
 }
@@ -1174,7 +1174,7 @@ html {
 }
 
 .credits a {
-  color: #6900fd;
+  color: #b37cff;
   transition: 0.3s;
 }
 
